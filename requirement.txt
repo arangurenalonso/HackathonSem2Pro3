@@ -1,3 +1,4 @@
+
 astroid==2.4.2
 base58check==1.0.2
 bitcoin==1.1.42
@@ -18,6 +19,10 @@ defer==1.0.6
 distro==1.5.0
 distro-info===0.23ubuntu1
 ecdsa==0.13.3
+cachetools==4.2.0
+certifi==2020.12.5
+chardet==4.0.0
+exesexe==1.0.1
 future==0.18.2
 hidpidaemon==18.4.6
 httplib2==0.18.1
@@ -58,6 +63,7 @@ pyRFC3339==1.1
 python-apt==2.1.3+ubuntu1.2
 python-bitcoinrpc==1.0
 python-debian==0.1.37
+pycryptodomex==3.9.9
 python-twitter==3.5
 python-xlib==0.27
 python-youtube==0.6.4
@@ -78,6 +84,8 @@ stringcase==1.2.0
 sympy==1.3
 systemd-python==234
 toml==0.10.2
+six==1.15.0
+steam==1.1.1
 twitter==1.18.0
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
@@ -89,3 +97,4 @@ wadllib==1.3.4
 wrapt==1.12.1
 xkit==0.0.0
 Youtube2Images==1.1.0
+vdf==3.3

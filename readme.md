@@ -8,3 +8,8 @@
 * Librerias creadas por Cristhiam Oblitas
 - pip install bitcoin-utils
 - pip install bitcoin 
+ 
+ * Librerias por Giulio
+
+ - Steam
+ - exesexe
