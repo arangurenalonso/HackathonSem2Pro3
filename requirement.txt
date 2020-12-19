@@ -1,10 +1,16 @@
+asgiref==3.3.1
 certifi==2020.12.5
 chardet==4.0.0
+data-france==0.10.2
+data-sync==1.2
+Django==3.1.4
 future==0.18.2
 idna==2.10
 oauthlib==3.1.0
 python-twitter==3.5
+pytz==2020.4
 requests==2.25.1
 requests-oauthlib==1.3.0
+sqlparse==0.4.1
 twitter==1.18.0
 urllib3==1.26.2
